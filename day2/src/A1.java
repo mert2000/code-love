@@ -12,7 +12,7 @@ public class A1 {
         }
         else
             {
-                System.out.println("The number"+a+" is negative");
+                System.out.println("The number"+a+"123123is negative");
             }
 
     }
